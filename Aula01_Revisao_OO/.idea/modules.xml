@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula01_Revisao_OO/Aula01_Revisao_OO.iml" filepath="$PROJECT_DIR$/Aula01_Revisao_OO/Aula01_Revisao_OO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula1.iml" filepath="$PROJECT_DIR$/Aula1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../TI21-LP2-RicardoLangbecker-ExercicioAvaliativo01/ExercicioAvaliativo01/ExercicioAvaliativo01.iml" filepath="$PROJECT_DIR$/../TI21-LP2-RicardoLangbecker-ExercicioAvaliativo01/ExercicioAvaliativo01/ExercicioAvaliativo01.iml" />
     </modules>
